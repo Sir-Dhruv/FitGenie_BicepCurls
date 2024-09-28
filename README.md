@@ -7,3 +7,8 @@ FitGenie Bicep Curls is a real-time application that helps you track your bicep 
 - Real-time bicep curl rep counting
 - Visual feedback with a progress bar and rep count
 - Simple and intuitive user interface
+
+
+## LAUNCH THE APP AND STAY FIT
+
+https://fitgeniebicepcurls-dhruvsingh.streamlit.app/
